@@ -1,0 +1,18 @@
+## santoni-user 7.1.2 N2G47H V10.3.1.0.NAMMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8937
+- Codename: santoni
+- Brand: Xiaomi
+- Flavor: santoni-user
+- Release Version: 7.1.2
+- Id: N2G47H
+- Incremental: V10.3.1.0.NAMMIXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 320
+- Fingerprint: Xiaomi/santoni/santoni:7.1.2/N2G47H/V10.3.1.0.NAMMIXM:user/release-keys
+- OTA version: 
+- Branch: santoni-user-7.1.2-N2G47H-V10.3.1.0.NAMMIXM-release-keys-random-text-320211603721228
+- Repo: xiaomi_santoni_dump
